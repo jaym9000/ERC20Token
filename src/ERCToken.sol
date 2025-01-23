@@ -16,7 +16,7 @@ import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
  */
 
 
-contract MyToken is ERC20, ERC20Burnable, Ownable, ERC20Permit {
+contract ERCToken is ERC20, ERC20Burnable, Ownable, ERC20Permit {
 
     /*//////////////////////////////////////////////////////////////
                                FUNCTIONS
